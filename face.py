@@ -1,1 +1,6 @@
-
+print("   XXXXX")
+print("  X      X")
+print("((  O O  ))")
+print("[    V    ]")
+print(" [  ===  ]")
+print("   -----")
